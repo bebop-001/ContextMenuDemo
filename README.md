@@ -16,7 +16,7 @@ Steve S.
 
 [<img src="./screenshots/noMenu.png"
 	alt="App screenshot"
-	height="640" />]
+    width="200" />]
 [<img src="./screenshots/withMenu.png"
 	alt="App screenshot"
-	height="640" />]
+    width="200" />]
